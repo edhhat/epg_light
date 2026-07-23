@@ -32,6 +32,7 @@ URLS = [
 
     'https://iptv-epg.org/files/epg-bg.xml.gz',
     'https://www.open-epg.com/files/canada.xml.gz',
+    'https://www.open-epg.com/files/ivorycoast1.xml',
 
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
