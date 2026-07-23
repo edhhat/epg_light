@@ -1,4 +1,4 @@
-import oshttps://github.com/edhhat/epg_light/blob/main/update_epg.py
+import os 
 import gzip
 import re
 import xml.etree.ElementTree as ET
