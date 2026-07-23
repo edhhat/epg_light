@@ -1,4 +1,4 @@
-import os
+import oshttps://github.com/edhhat/epg_light/blob/main/update_epg.py
 import gzip
 import re
 import xml.etree.ElementTree as ET
@@ -31,6 +31,7 @@ URLS = [
     'https://i.mjh.nz/SamsungTVPlus/fr.xml.gz',
 
     'https://iptv-epg.org/files/epg-bg.xml.gz',
+    'https://www.open-epg.com/files/canada.xml.gz',
 
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
