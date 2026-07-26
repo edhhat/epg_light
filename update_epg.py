@@ -30,6 +30,8 @@ URLS = [
     'https://i.mjh.nz/PlutoTV/fr.xml.gz',
     'https://i.mjh.nz/SamsungTVPlus/fr.xml.gz',
 
+    'https://iptv-epg.org/files/epg-gb.xml.gz',
+
     'https://iptv-epg.org/files/epg-bg.xml.gz',
     'https://www.open-epg.com/files/canada.xml.gz',
     'https://www.open-epg.com/files/ivorycoast1.xml',
